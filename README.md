@@ -64,5 +64,5 @@ git clone https://github.com/amit39underworld93-bot/MATHS_TOOLKIT.git cd MATHS_T
 4. Exit
 Enter your choice:
 
-Simply type the number corresponding to your desired module, and the program will guide you through entering the data 
-(e.g., matrix rows/columns, polynomial coefficients, or statistical arrays) step by step.
+***Simply type the number corresponding to your desired module, and the program will guide you through entering the data 
+(e.g., matrix rows/columns, polynomial coefficients, or statistical arrays) step by step.***

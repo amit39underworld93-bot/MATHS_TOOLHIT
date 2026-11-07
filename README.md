@@ -57,14 +57,12 @@ git clone https://github.com/amit39underworld93-bot/MATHS_TOOLKIT.git cd MATHS_T
 
 *When you launch the application, you will be greeted with the main interactive menu:*
 
-`
 ===== MATHS TOOLKIT =====
 1. Matrix solver
 2. Polynomial solver
 3. Statistics solver
 4. Exit
 Enter your choice:
-`
 
 Simply type the number corresponding to your desired module, and the program will guide you through entering the data 
 (e.g., matrix rows/columns, polynomial coefficients, or statistical arrays) step by step.
